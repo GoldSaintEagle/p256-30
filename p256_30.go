@@ -3,7 +3,7 @@
 // p = 8 * 3 * 5 * 7 * 11 * 13 * 17 * 19 * 23 * 29 * 31 * 37 * 41 * 43 * 47 * 53 * 59 * 61 * 67 * 71 * 73 * 79 * 83 * 89 * 97 * secp256k1 - 1;
 // N = p + 1;
 // Gx = 0x7c9402ba2a66450571c1bcdb1e74c4f3259d71331f428ecb1c849a9dae9cf39c132e1089c77efedc5f6ee7796a2945;
-// Gy = 81e2c493c34bbca6ca6ec554ac4daf9df84a2ed3838695423c38afe7e660bceb91aa5888d39fec9e4db535eb20d342.
+// Gy = 0x81e2c493c34bbca6ca6ec554ac4daf9df84a2ed3838695423c38afe7e660bceb91aa5888d39fec9e4db535eb20d342.
 
 package p256_30
 
